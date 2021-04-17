@@ -1,15 +1,19 @@
+<!--
+ * @Author: your name
+ * @Date: 2021-04-17 13:20:03
+ * @LastEditTime: 2021-04-17 13:31:07
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \supermall\src\App.vue
+-->
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-  </div>
+  <div id="app"></div>
 </template>
 
 <script>
-
 export default {
   name: "App",
-  components: {
-  }
+  components: {},
 };
 </script>
 
@@ -22,5 +26,5 @@ export default {
 //   color: #2c3e50;
 //   margin-top: 60px;
 // }
-@import './assets/css/base.css'
+@import "./assets/css/base.css";
 </style>
